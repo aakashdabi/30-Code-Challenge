@@ -1,0 +1,5 @@
+1. Reverse Linked List – https://leetcode.com/problems/reverse-linked-list/
+2. Linked List Cycle – https://leetcode.com/problems/linked-list-cycle/
+3. Merge Two Sorted Lists – https://leetcode.com/problems/merge-two-sorted-lists/
+4. Remove Nth Node From End of List – https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+5. Reorder List – https://leetcode.com/problems/reorder-list/
